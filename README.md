@@ -6,10 +6,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![https://github.com/pchalaia/social-links-profile/blob/main/assets/images/screenshot.jpg](./screenshot.jpg)
+[![./screenshot.jpg](https://github.com/pchalaia/social-links-profile/blob/main/assets/images/screenshot.jpg)]
 
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-solution-qEgtT3YyJA](https://your-solution-url.com)
 - Live Site URL: [https://pchalaia.github.io/social-links-profile](https://your-live-site-url.com)
 
 
@@ -19,4 +18,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+
 
