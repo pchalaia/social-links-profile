@@ -6,11 +6,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![https://github.com/pchalaia/social-links-profile/blob/main/assets/images/screenshot.jpg](./screenshot.jpg)
 
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://pchalaia.github.io/social-links-profile](https://your-live-site-url.com)
 
 
 ### Built with
